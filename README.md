@@ -2,6 +2,7 @@
 
 ```bash
 pip install git+https://github.com/HanSamu-27/ytdl-music.git
+```
 
 ## Usage 
 
