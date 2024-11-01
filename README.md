@@ -7,7 +7,7 @@ pip install git+https://github.com/HanSamu-27/ytdl-music.git
 ## Usage 
 
 ```
-from ytdl_music.ytdl import ytdl
+from ytdl import ytdl
 
 url = "https://youtu.be/pxGM_TOgHuM?feature=shared"
 sph = ytdl(url)
